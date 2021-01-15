@@ -1,0 +1,139 @@
+[
+  {
+    "titre": "Hamburger à l'oeuf",
+    "photo": "",
+    "ingrédients": [
+      {
+        "name": "Oeuf(s)",
+        "quantity": 1,
+        "unity": null
+      },
+      {
+        "name": "Sauce au poivre",
+        "quantity": 2,
+        "unity": "cs"
+      },
+      {
+        "name": "Mélange de printemps",
+        "quantity": 30,
+        "unity": "g"
+      },
+      {
+        "name": "Maxi burger",
+        "quantity": 1,
+        "unity": null
+      },
+      {
+        "name": "Steak hachés",
+        "quantity": 1,
+        "unity": null
+      },
+      {
+        "name": "Tomate cru",
+        "quantity": 30,
+        "unity": "g"
+      }
+    ],
+    "étapes": [
+      "Faire chauffer les pains à burger dans un four (ou à la poêle), et les laisser au chaud le temps de la préparation.",
+      "Faire cuire votre steak haché à votre gout et assaisonner avec du sel et du poivre si besoin.",
+      "Si vous avez un emporte-pièce, disposez le dans une poêle chaude et casser l’œuf dedans. Sinon casser le dans une poêle et essayer qu'il ne s'étale pas trop. Laisser cuire l’œuf, le retourner si besoin, percer le jaune si vous ne souhaitez pas qu'il coule lors de la dégustation.",
+      "Sortez les pains et garnissez les de sauce au poivre, puis disposez le steak, puis l’œuf (n'hésitez pas à le retailler pour ne pas qu'il sorte trop du burger), les feuilles de salade et les tranches de tomates. Vous pouvez rajouter des tranches de fromage selon vos envies. Servir chaud avec des frites maisons !"
+    ],
+    "difficulté": 1,
+    "durée_préparation": 5,
+    "durée_cuisson": 15,
+    "nutri_score": "C",
+    "saison": "été",
+    "date_creation": "2021/01/14",
+    "date_modification": null
+  },
+  {
+    "titre": "Butternut farcie",
+    "photo": "",
+    "ingrédients": [
+      {
+        "name": "Crème uht liquide",
+        "quantity": 20,
+        "unity": "cl"
+      },
+      {
+        "name": "Champignons",
+        "quantity": 30,
+        "unity": "g"
+      },
+      {
+        "name": "Oignons",
+        "quantity": 50,
+        "unity": "g"
+      },
+      {
+        "name": "Courge doubeurre",
+        "quantity": 1,
+        "unity": null
+      },
+      {
+        "name": "Chair à saucisse",
+        "quantity": 90,
+        "unity": "g"
+      }
+    ],
+    "étapes": [
+      "Couper la butternut en deux, enlever les pépins puis la préchauffer pendant 1h/15.",
+      "Dans une poêle, faire cuire les champignons et la chair à saucisse avec un demi oignon. Saler et poivrer.",
+      "Ajouter la préparation dans les creux de la butternut, et ajouter la crème liquide.",
+      "Enfourner le tout quelques minutes au four et déguster chaud accompagné de salade verte."
+    ],
+    "difficulté": 2,
+    "durée_préparation": 30,
+    "durée_cuisson": 90,
+    "nutri_score": "C",
+    "saison": "hiver",
+    "date_creation": "2021/01/14",
+    "date_modification": null
+  },
+  {
+    "titre": "Choux farcis",
+    "photo": "",
+    "ingrédients": [
+      {
+        "name": "Crème uht liquide",
+        "quantity": 20,
+        "unity": "cl"
+      },
+      {
+        "name": "Champignons",
+        "quantity": 30,
+        "unity": "g"
+      },
+      {
+        "name": "Oignons",
+        "quantity": 50,
+        "unity": "g"
+      },
+      {
+        "name": "Courge doubeurre",
+        "quantity": 1,
+        "unity": null
+      },
+      {
+        "name": "Chair à saucisse",
+        "quantity": 90,
+        "unity": "g"
+      }
+    ],
+    "étapes": [
+      "Couper la butternut en deux, enlever les pépins puis la préchauffer pendant 1h/15.",
+      "Dans une poêle, faire cuire les champignons et la chair à saucisse avec un demi oignon. Saler et poivrer.",
+      "Ajouter la préparation dans les creux de la butternut, et ajouter la crème liquide.",
+      "Enfourner le tout quelques minutes au four et déguster chaud accompagné de salade verte."
+    ],
+    "difficulté": 2,
+    "durée_préparation": 30,
+    "durée_cuisson": 90,
+    "nutri_score": "C",
+    "saison": "hiver",
+    "date_creation": "2021/01/14",
+    "date_modification": null
+  }
+]
